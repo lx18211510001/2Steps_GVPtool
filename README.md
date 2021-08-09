@@ -4,7 +4,6 @@ workflow of toolkit
 
 2Steps_GVPtool is a toolkit to construct database containing Genetically Variant Peptides(GVP), such as ComVarDB databse, and identify GVPs from MS proteomics spectra data, using the constomized database. ComVarDB combines entries from SwissProt and GVPs from dbSNP.      
   
-https://github.com/lx18211510001/2Steps_GVPtool/blob/master/workflow.tif
   
   
 **Before running**  
